@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python *)",
+      "Bash(pip show *)",
+      "Bash(pip3 show *)"
+    ]
+  }
+}
